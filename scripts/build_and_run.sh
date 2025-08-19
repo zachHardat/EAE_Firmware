@@ -16,3 +16,5 @@ fi
 # run main with arguments passed to this script
 # e.g. ./build_and_run.sh --temp 45 --run-seconds 60
 ./eae_firmware "$@"
+
+# chmod +x scripts/build_and_run.sh
